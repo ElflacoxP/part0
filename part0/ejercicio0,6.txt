@@ -1,0 +1,3 @@
+Las SPA(single page application) utilizan la misma pagina para todo el codigo, sea html, css, js
+con el cual renderizan la pagina directamente desde en buscador (Browser) y utilizan el metodo 
+Post con el cual envian datos desde un busador a un servidor  
