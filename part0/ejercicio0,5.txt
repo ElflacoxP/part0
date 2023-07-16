@@ -1,17 +1,1 @@
-el buscador pide al servido una url con el hipertext transfer protocol (HTTP) y el metodo GET  https://studies.cs.helsinki.fi/exampleapp/notes
-el servidor devuelve al buscador el codigo html
-el buscador pide al servidor el main.css mediante el HTPP y el metodo GET https://studies.cs.helsinki.fi/exampleapp/main.css
-el servidor devuelve al buscador el main.css
-el buscador pide al servidor el main.js mediante el HTPP y el metodo get 
-el servidor devuelve el archivo main.js
 
-el buscador ejecuta el codigo js mientras pide al servido el los JSON
-
-el buscador pide al servidor mediante el HTTP y el metodo GET el archivo data.json
-el servidor devuelve  [{content: "HTML is easy", date:"2019-05-23 }, ...]
-
-el buscador ejecuta el manipulador de eventos eso renderiza las notas para ser vistas
-
-
-
-con esto logramos que el buscador interactue con el servidor pidiendo y obteniendo datos desde un servidor.
